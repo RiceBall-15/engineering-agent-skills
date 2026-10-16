@@ -1,0 +1,11 @@
+# Local preferences and machine configuration
+preferences.local.md
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Local dependencies and caches
+node_modules/
+__pycache__/
+*.pyc

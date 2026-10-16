@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excalidraw 工程绘图"
+  short_description: "从需求和代码绘制架构、流程与调用关系图，独立目录交付可编辑源文件和预览"
+  default_prompt: "请使用 $excalidraw-engineering 根据当前需求或代码绘图，先选择对应 C4/UML 等记法，核对关键关系并执行审图清单，将可编辑源文件、实际预览和检查说明保存到独立成果文件夹。"
